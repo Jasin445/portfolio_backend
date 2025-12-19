@@ -430,16 +430,14 @@
       "assets/images/olc-homes-properties.png",
       "assets/images/olc-homes-contact.png"
     ],
-    "technologies": [
-      "React.js",
-      "Next.js",
-      "Tailwind CSS",
-      "React Router",
-      "Framer Motion",
-      "React Hook Form",
-      "Swiper.js",
-      "Lazy Loading"
-    ],
+  "technologies": [
+    "React.js",
+    "Next.js",
+    "Tailwind CSS",
+    "TypeScript",
+    "GSAP",
+    "Lazy Loading"
+  ],
     "status": "completed",
     "completedDate": "June 2025",
     "duration": "2 months",
