@@ -4,8 +4,8 @@
     "title": "Everything Gadget Accessories Store",
     "description": "This project was one of the first projects that i completed all on my own using HTML and CSS, focusing on styling, layout (Flexbox), and making designs responsive for different screen sizes. I learned the process of responsive layout",
     "fullDescription": "This project was one of the first projects that i completed all on my own using HTML and CSS, focusing on styling, layout (Flexbox), and making designs responsive for different screen sizes. I learned the process of responsive layout. This foundational project helped me understand the core principles of web development and responsive design patterns.",
-    "image": "assets/images/downloadrr.png",
-    "images": ["assets/images/downloadrr.png"],
+    "image": "/assets/images/everything-gadgets.png",
+    "images": ["/assets/images/everything-gadgets.png"],
     "technologies": ["HTML5", "CSS3", "Flexbox", "Responsive Design"],
     "status": "completed",
     "completedDate": "Dec 2024",
@@ -476,9 +476,7 @@
     "fullDescription": "EdTech LMS is an ambitious full-stack learning management system currently in development. I'm building both the frontend and backend from scratch, focusing on creating a scalable platform that can support concurrent users taking courses, submitting assessments, and tracking their progress. The system implements three user roles (Students, Instructors, Admins) with granular permissions controlled through JWT-based authentication. On the backend, I'm architecting a modular Express.js application with PostgreSQL for data persistence, using Zod for request validation and following security best practices including input sanitization and SQL injection prevention. The frontend uses React with TypeScript for type safety and TanStack Query for efficient data management. This project is teaching me end-to-end development, from database design to deployment, and the complexities of building secure, scalable educational platforms.",
     "image": "/assets/images/datatechub-preview.png",
     "images": [
-      "assets/images/edtech-lms-preview.png",
-      "assets/images/edtech-lms-courses.png",
-      "assets/images/edtech-lms-dashboard.png"
+      "/assets/images/datatechub-preview.png"
     ],
     "technologies": [
       "Next.js",
