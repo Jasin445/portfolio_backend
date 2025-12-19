@@ -258,9 +258,8 @@
     "fullDescription": "HouseConnect is a comprehensive real estate platform designed to solve two critical problems in the housing market: finding properties and finding compatible roommates. The platform implements a three-tier user system with distinct roles for homeseekers, agents, and administrators. I architected the entire system from database design to deployment, handling real monetary transactions through Paystack integration. The platform features a sophisticated contact reveal system where users can securely exchange contact information after payment verification, ensuring both security and monetization. This project challenged me to think about scalability, security, payment processing, and creating intuitive user experiences for different user types.",
     "image": "/assets/images/houseconnect.png",
     "images": [
-      "/assets/images/houseconnect1.png",
-      "assets/images/houseconnect-dashboard.png",
-      "assets/images/houseconnect-listings.png"
+      "/assets/images/houseconnect.png",
+      "/assets/images/houseconnect1.png"
     ],
     "technologies": [
       "React.js",
@@ -370,9 +369,7 @@
     "fullDescription": "Spaces is an academic collaboration platform designed to streamline communication between students and their academic supervisors. I contributed to the frontend development, focusing on creating a clean, responsive, and accessible user interface. The platform implements role-based registration with strict university email validation and OTP verification to ensure only legitimate academic users can access the system. I developed a comprehensive reusable component library using TypeScript interfaces, ensuring type safety across the entire application and making it easy for team members to build new features consistently. The project taught me the importance of design systems, the value of TypeScript in catching errors early, and how to build scalable component architectures that support team collaboration.",
     "image": "/assets/images/spaces-preview.png",
     "images": [
-      "assets/images/spaces-preview.png",
-      "assets/images/spaces-dashboard.png",
-      "assets/images/spaces-collaboration.png"
+      "assets/images/spaces-preview.png"
     ],
     "technologies": [
       "React",
@@ -426,9 +423,8 @@
     "fullDescription": "OLC Homes is a professional website for a real estate company, designed to showcase their property portfolio and services to potential clients. I contributed to the frontend development, focusing on creating responsive layouts that provide a seamless experience across all devices—from mobile phones to large desktop screens. The project involved close collaboration with designers and other developers to ensure the final product met the client's high standards. I implemented modern UI patterns, optimized images for fast loading, and ensured the website was accessible to all users. This project strengthened my skills in team collaboration, client communication, and building production-ready websites that balance aesthetics with performance.",
     "image": "/assets/images/olclare-preview.png",
     "images": [
-      "assets/images/olc-homes-preview.png",
-      "assets/images/olc-homes-properties.png",
-      "assets/images/olc-homes-contact.png"
+      "/assets/images/olclare-preview.png",
+      "/assets/images/oclare2.png"
     ],
   "technologies": [
     "React.js",
