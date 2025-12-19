@@ -438,7 +438,7 @@
     "completedDate": "June 2025",
     "duration": "2 months",
     "featured": true,
-    "liveUrl": "https://olclarehomes.com",
+    "liveUrl": "https://www.olclarehomes.com",
     "githubUrl": "https://gitlab.com/prosper20/ol-clare",
     "architecture": "Single-page application built with React and React Router for navigation. Tailwind CSS provides utility-first styling with custom theme configuration matching brand colors. Framer Motion adds smooth page transitions and scroll animations. Images are lazy-loaded and optimized using modern formats (WebP) with fallbacks. Form handling uses React Hook Form with validation. The site is fully responsive using Tailwind's mobile-first approach.",
     "keyFeatures": [
