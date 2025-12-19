@@ -478,14 +478,14 @@
     "title": "Datatechhub Learning Management System",
     "description": "A comprehensive full-stack Learning Management System with course catalog, student dashboards, and assessment interfaces. Built with React, TypeScript, Node.js, and PostgreSQL, featuring JWT authentication, role-based authorization, and secure RESTful APIs.",
     "fullDescription": "EdTech LMS is an ambitious full-stack learning management system currently in development. I'm building both the frontend and backend from scratch, focusing on creating a scalable platform that can support concurrent users taking courses, submitting assessments, and tracking their progress. The system implements three user roles (Students, Instructors, Admins) with granular permissions controlled through JWT-based authentication. On the backend, I'm architecting a modular Express.js application with PostgreSQL for data persistence, using Zod for request validation and following security best practices including input sanitization and SQL injection prevention. The frontend uses React with TypeScript for type safety and TanStack Query for efficient data management. This project is teaching me end-to-end development, from database design to deployment, and the complexities of building secure, scalable educational platforms.",
-    "image": "assets/images/edtech-lms-preview.png",
+    "image": "/assets/images/datatechub-preview.png",
     "images": [
       "assets/images/edtech-lms-preview.png",
       "assets/images/edtech-lms-courses.png",
       "assets/images/edtech-lms-dashboard.png"
     ],
     "technologies": [
-      "React",
+      "Next.js",
       "TypeScript",
       "Node.js",
       "Express",
